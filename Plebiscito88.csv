@@ -1,0 +1,347 @@
+region_id,comuna,resultado
+1,Alto Hospicio,0
+1,Camiña,1
+1,Colchane,1
+1,Huara,1
+1,Iquique,0
+1,Pica,1
+1,Pozo Almonte,1
+2,Antofagasta,0
+2,Calama,0
+2,María Elena,0
+2,Mejillones,0
+2,Ollagüe,1
+2,San Pedro de Atacama,1
+2,Sierra Gorda,1
+2,Taltal,0
+2,Tocopilla,0
+3,Alto del Carmen,1
+3,Caldera,0
+3,Chañaral,0
+3,Copiapó,0
+3,Diego de Almagro,0
+3,Freirina,1
+3,Huasco,0
+3,Tierra Amarilla,0
+3,Vallenar,0
+4,Andacollo,1
+4,Canela,0
+4,Combarbalá,1
+4,Coquimbo,0
+4,Illapel,0
+4,La Higuera,0
+4,La Serena,0
+4,Los Vilos,0
+4,Monte Patria,1
+4,Ovalle,0
+4,Paiguano,1
+4,Punitaqui,0
+4,Río Hurtado,1
+4,Salamanca,0
+4,Vicuña,1
+5,Algarrobo,1
+5,Cabildo,0
+5,Calera,0
+5,Calle Larga,0
+5,Cartagena,1
+5,Casablanca,1
+5,Catemu,0
+5,Concón,0
+5,El Quisco,1
+5,El Tabo,1
+5,Hijuelas,1
+5,Isla de Pascua,1
+5,Juan Fernández,1
+5,La Cruz,0
+5,La Ligua,0
+5,Limache,0
+5,Llaillay,0
+5,Los Andes,0
+5,Nogales,0
+5,Olmué,1
+5,Panquehue,0
+5,Papudo,1
+5,Petorca,0
+5,Puchuncaví,1
+5,Putaendo,0
+5,Quillota,0
+5,Quilpué,0
+5,Quintero,1
+5,Rinconada,0
+5,San Antonio,0
+5,San Esteban,0
+5,San Felipe,0
+5,Santa María,0
+5,Santo Domingo,1
+5,Valparaíso,0
+5,Villa Alemana,0
+5,Viña del Mar,0
+5,Zapallar,1
+6,Chépica,0
+6,Chimbarongo,0
+6,Codegua,0
+6,Coinco,0
+6,Coltauco,0
+6,Doñihue,0
+6,Graneros,0
+6,La Estrella,1
+6,Las Cabras,1
+6,Litueche,1
+6,Lolol,1
+6,Machalí,0
+6,Malloa,1
+6,Marchihue,1
+6,Mostazal,0
+6,Nancagua,1
+6,Navidad,0
+6,Olivar,0
+6,Palmilla,1
+6,Paredones,0
+6,Peralillo,1
+6,Peumo,0
+6,Pichidegua,0
+6,Pichilemu,0
+6,Placilla,1
+6,Pumanque,1
+6,Quinta de Tilcoco,1
+6,Rancagua,0
+6,Rengo,0
+6,Requínoa,0
+6,San Fernando,0
+6,San Vicente,0
+6,Santa Cruz,1
+7,Cauquenes,1
+7,Chanco,1
+7,Colbún,0
+7,Constitución,0
+7,Curepto,0
+7,Curicó,0
+7,Empedrado,1
+7,Hualañé,0
+7,Licantén,0
+7,Linares,1
+7,Longaví,1
+7,Maule,0
+7,Molina,0
+7,Parral,1
+7,Pelarco,1
+7,Pelluhue,1
+7,Pencahue,0
+7,Rauco,0
+7,Retiro,1
+7,Río Claro,1
+7,Romeral,1
+7,Sagrada Familia,0
+7,San Clemente,0
+7,San Javier,1
+7,San Rafael,1
+7,Talca,0
+7,Teno,1
+7,Vichuquén,1
+7,Villa Alegre,1
+7,Yerbas Buenas,1
+8,Alto Biobío,1
+8,Antuco,0
+8,Arauco,0
+8,Cabrero,0
+8,Cañete,1
+8,Chiguayante,0
+8,Concepción,0
+8,Contulmo,1
+8,Coronel,0
+8,Curanilahue,0
+8,Florida,1
+8,Hualpén,0
+8,Hualqui,0
+8,Laja,0
+8,Lebu,0
+8,Los Álamos,0
+8,Los Angeles,1
+8,Lota,0
+8,Mulchén,1
+8,Nacimiento,0
+8,Negrete,1
+8,Penco,0
+8,Quilaco,1
+8,Quilleco,1
+8,San Pedro de la Paz,0
+8,San Rosendo,0
+8,Santa Bárbara,1
+8,Santa Juana,1
+8,Talcahuano,0
+8,Tirúa,1
+8,Tomé,0
+8,Tucapel,0
+8,Yumbel,1
+9,Angol,1
+9,Carahue,0
+9,Cholchol,1
+9,Collipulli,0
+9,Cunco,1
+9,Curacautín,1
+9,Curarrehue,1
+9,Ercilla,1
+9,Freire,1
+9,Galvarino,1
+9,Gorbea,1
+9,Lautaro,1
+9,Loncoche,1
+9,Lonquimay,1
+9,Los Sauces,1
+9,Lumaco,1
+9,Melipeuco,1
+9,Nueva Imperial,1
+9,Padre Las Casas,1
+9,Perquenco,1
+9,Pitrufquen,1
+9,Pucón,1
+9,Purén,1
+9,Renaico,1
+9,Saavedra,1
+9,Temuco,0
+9,Teodoro Schmidt,1
+9,Toltén,1
+9,Traiguén,1
+9,Victoria,1
+9,Vilcún,1
+9,Villarrica,1
+10,Ancud,0
+10,Calbuco,1
+10,Castro,0
+10,Chaitén,1
+10,Chonchi,1
+10,Cochamó,1
+10,Curaco de Vélez,1
+10,Dalcahue,1
+10,Fresia,0
+10,Frutillar,1
+10,Futaleufú,1
+10,Hualaihué,1
+10,Llanquihue,0
+10,Los Muermos,1
+10,Maullín,1
+10,Osorno,0
+10,Palena,1
+10,Puerto Montt,0
+10,Puerto Octay,1
+10,Puerto Varas,1
+10,Puqueldón,1
+10,Purranque,1
+10,Puyehue,1
+10,Queilén,1
+10,Quellón,1
+10,Quemchi,1
+10,Quinchao,1
+10,Río Negro,1
+10,San Juan de la Costa,1
+10,San Pablo,1
+11,Aysén,0
+11,Chile Chico,1
+11,Cisnes,1
+11,Cochrane,1
+11,Coyhaique,0
+11,Guaitecas,1
+11,Lago Verde,1
+11,O'Higgins,1
+11,Río Ibáñez,1
+11,Tortel,1
+12,Antártica,1
+12,Cabo de Hornos,1
+12,Laguna Blanca,1
+12,Natales,0
+12,Porvenir,1
+12,Primavera,0
+12,Punta Arenas,0
+12,Río Verde,1
+12,San Gregorio,1
+12,Timaukel,1
+12,Torres del Paine,1
+13,Alhué,0
+13,Buin,1
+13,Calera de Tango,1
+13,Cerrillos,0
+13,Cerro Navia,0
+13,Colina,1
+13,Conchalí,0
+13,Curacaví,0
+13,El Bosque,0
+13,El Monte,1
+13,Estación Central,0
+13,Huechuraba,0
+13,Independencia,0
+13,Isla de Maipo,0
+13,La Cisterna,0
+13,La Florida,0
+13,La Granja,0
+13,La Pintana,0
+13,La Reina,0
+13,Lampa,1
+13,Las Condes,1
+13,Lo Barnechea,1
+13,Lo Espejo,0
+13,Lo Prado,0
+13,Macul,0
+13,Maipú,0
+13,María Pinto,1
+13,Melipilla,1
+13,Ñuñoa,0
+13,Padre Hurtado,0
+13,Paine,1
+13,Pedro Aguirre Cerda,0
+13,Peñaflor,0
+13,Peñalolén,0
+13,Pirque,1
+13,Providencia,1
+13,Pudahuel,0
+13,Puente Alto,0
+13,Quilicura,0
+13,Quinta Normal,0
+13,Recoleta,0
+13,Renca,0
+13,San Bernardo,0
+13,San Joaquín,0
+13,San José de Maipo,0
+13,San Miguel,0
+13,San Pedro,1
+13,San Ramón,0
+13,Santiago,0
+13,Talagante,1
+13,Tiltil,0
+13,Vitacura,1
+14,Corral,0
+14,Futrono,1
+14,La Unión,1
+14,Lago Ranco,1
+14,Lanco,1
+14,Los Lagos,1
+14,Máfil,1
+14,Mariquina,1
+14,Paillaco,1
+14,Panguipulli,1
+14,Río Bueno,1
+14,Valdivia,0
+15,Arica,0
+15,Camarones,1
+15,General Lagos,1
+15,Putre,1
+16,Bulnes,1
+16,Chillán,0
+16,Chillán Viejo,0
+16,Cobquecura,1
+16,Coelemu,0
+16,Coihueco,1
+16,El Carmen,1
+16,Ninhue,1
+16,Ñiquén,1
+16,Pemuco,1
+16,Pinto,1
+16,Portezuelo,1
+16,Quillón,1
+16,Quirihue,1
+16,Ránquil,1
+16,San Carlos,1
+16,San Fabián,1
+16,San Ignacio,1
+16,San Nicolás,1
+16,Treguaco,1
+16,Yungay,1
